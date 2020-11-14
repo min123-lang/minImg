@@ -1,0 +1,2 @@
+# minImg
+image MIN
